@@ -1,0 +1,2 @@
+@echo off
+MultiMonitorTool.exe /SetMonitors "Name=MONITOR\SAM7115\{4d36e96e-e325-11ce-bfc1-08002be10318}\0001 BitsPerPixel=32 Width=1920 Height=1080 DisplayFlags=0 DisplayFrequency=60 DisplayOrientation=0 PositionX=1920 PositionY=0" "Name=MONITOR\BOE08B3\{4d36e96e-e325-11ce-bfc1-08002be10318}\0000 Primary=1 BitsPerPixel=32 Width=1920 Height=1080 DisplayFlags=0 DisplayFrequency=144 DisplayOrientation=0 PositionX=0 PositionY=0"
